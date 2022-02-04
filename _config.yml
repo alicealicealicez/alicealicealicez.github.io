@@ -1,2 +1,4 @@
 name: Alice Zheng
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
